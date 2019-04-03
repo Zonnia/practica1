@@ -1,4 +1,4 @@
-x=int(raw_input("ingrese numero: "))
+x=int(raw_input("ingrese numero a multiplicar: "))
 
 for i in range(1,x+1):
 
